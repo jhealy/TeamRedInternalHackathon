@@ -5,6 +5,13 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BrandingAPI", "BrandingAPI.csproj", "{E8473A23-E52E-4DA9-9632-0F9C45C6A7CF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{96C813AE-2C7F-4E45-8FB3-E495F3944199}"
+	ProjectSection(SolutionItems) = preProject
+		todo.txt = todo.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAPIConsole", "..\TestAPIConsole\TestAPIConsole.csproj", "{B6DC0FC6-74E6-4508-811C-8FBA0CB68680}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{E8473A23-E52E-4DA9-9632-0F9C45C6A7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8473A23-E52E-4DA9-9632-0F9C45C6A7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8473A23-E52E-4DA9-9632-0F9C45C6A7CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6DC0FC6-74E6-4508-811C-8FBA0CB68680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DC0FC6-74E6-4508-811C-8FBA0CB68680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DC0FC6-74E6-4508-811C-8FBA0CB68680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DC0FC6-74E6-4508-811C-8FBA0CB68680}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

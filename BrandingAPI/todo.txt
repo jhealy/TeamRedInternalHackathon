@@ -1,4 +1,4 @@
-stub out Send api
+DONE - stub out Send api
 stub out Receive api
 call jdh db, return results "WelcomeHome1"
 call openapi, return results
